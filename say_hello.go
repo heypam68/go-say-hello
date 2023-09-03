@@ -1,5 +1,5 @@
 package gosayhello
 
 func SayHello(nama string) string {
-	return "V1.4.0" + nama
+	return "V1.5.0" + nama
 }
